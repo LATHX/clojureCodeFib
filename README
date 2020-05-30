@@ -1,4 +1,4 @@
-There are two ways to run this programme
+There are two ways to run this programme and this programme can sum 1000000 Fib digits
 
 1) java -jar target/codeTest-1.0.0-SNAPSHOT-standalone.jar
 2) move to this programme root path then execute "lein run" in Terminal
