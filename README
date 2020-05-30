@@ -1,13 +1,4 @@
-# codeTest
+There are two ways to run this programme
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2020 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+1) java -jar target/codeTest-1.0.0-SNAPSHOT-standalone.jar
+2) move to this programme root path then execute "lein run" in Terminal
